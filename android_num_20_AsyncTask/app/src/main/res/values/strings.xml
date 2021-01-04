@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_num_20_AsyncTask</string>
+    <string name="Hw20_title">AsyncTask 用法</string>
+    <string name="Hw20_Loading">Loading</string>
+</resources>
